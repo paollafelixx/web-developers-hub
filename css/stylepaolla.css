@@ -1,0 +1,43 @@
+body{
+    font-family: Trebuchet MS, Helvetica, sans-serif, Helvetica, sans-serif;
+    margin: 5;
+    padding: 0;
+}
+.menu ul{
+    background-color: #CCC;
+    margin: 0;
+    padding: 2em;
+}
+.menu li{
+    display: inline;
+    padding: 0 3em 0 0;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+header, section, footer{
+    padding: 0 5em;
+}
+#imagem-perfil{
+    width: 200%;
+    max-width: 400px;
+    display: block;
+    margin: 0px auto;
+    
+}
+.button{
+    background-color: rgb(255, 0, 85);
+    color: white;
+    padding: 2em;
+    margin: 1em 0;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 1.5em;
+}
+h2 {
+    font-family: Trebuchet MS;
+    margin: 4;
+    padding: 2;
+}
